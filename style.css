@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fg3tno');
+  src:  url('fonts/icomoon.eot?fg3tno#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fg3tno') format('truetype'),
+    url('fonts/icomoon.woff?fg3tno') format('woff'),
+    url('fonts/icomoon.svg?fg3tno#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-avatar-1:before {
+  content: "\e91c";
+}
+.icon-loupe-1:before {
+  content: "\e91d";
+}
+.icon-heart:before {
+  content: "\e91a";
+}
+.icon-upload-1:before {
+  content: "\e91b";
+}
+.icon-zoom-1-1:before {
+  content: "\e916";
+}
+.icon-email-1-1:before {
+  content: "\e917";
+}
+.icon-Vector-7:before {
+  content: "\e918";
+}
+.icon-Vector-6:before {
+  content: "\e919";
+}
+.icon-uniE915:before {
+  content: "\e915";
+}
+.icon-Group-3:before {
+  content: "\e914";
+  color: #717171;
+}
+.icon-uniE912:before {
+  content: "\e912";
+  color: #717171;
+}
+.icon-uniE913:before {
+  content: "\e913";
+}
+.icon-Vector-3:before {
+  content: "\e900";
+}
+.icon-desk-bell-1:before {
+  content: "\e901";
+}
+.icon-cutlery-1:before {
+  content: "\e902";
+}
+.icon-Group-2:before {
+  content: "\e903";
+}
+.icon-uniE904:before {
+  content: "\e904";
+}
+.icon-1:before {
+  content: "\e905";
+  color: #717171;
+}
+.icon-2:before {
+  content: "\e906";
+  color: #717171;
+}
+.icon-3:before {
+  content: "\e907";
+  color: #717171;
+}
+.icon-4:before {
+  content: "\e908";
+  color: #717171;
+}
+.icon-link-1:before {
+  content: "\e909";
+  color: #717171;
+}
+.icon-email-1:before {
+  content: "\e90a";
+  color: #717171;
+}
+.icon-Vector-2:before {
+  content: "\e90b";
+ 
+}
+.icon-pin:before {
+  content: "\e90c";
+ 
+}
+.icon-pawprint-1:before {
+  content: "\e90d";
+  color: #717171;
+}
+.icon-Group-1:before {
+  content: "\e90e";
+  color: #717171;
+}
+.icon-Group:before {
+  content: "\e90f";
+  color: #717171;
+}
+.icon-linear-color-1:before {
+  content: "\e910";
+  color: #717171;
+}
+.icon-Vector-1:before {
+  content: "\e911";
+  color: #717171;
+}
